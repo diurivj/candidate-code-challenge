@@ -28,7 +28,7 @@ Implementation details are up to you. This repo is a fresh `create-react-app` in
 
 Please use [SuperRare's API](https://SuperRare.co/sr-json/docs/) as your data source. Restrict the artwork categories to: `artwork` and `artwork-v2`
 
-
+Please use the `/sr-json/v0/nfts/assets` route.
 
 ## Available Scripts
 
