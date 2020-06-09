@@ -13,7 +13,7 @@ The following are scenarios describing how the feature you are building will be 
 1. Kathy wants to browse through the very cool art on SuperRare but would prefer to see it in a grid, 3 across.
 1. While browsing, Jimmy wants to see the name, current owner and creator of the artwork as well as the artwork itself.
 1. Kyle looks at the artworks on his phone and finds the site responsive; he sees 1 artwork at a time.
-1. EXTRA: An filters artworks by name.
+1. An filters artworks by name.
 
 ### Non-goals
 
