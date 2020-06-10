@@ -5,7 +5,7 @@ import { Flex, Image, Text, Divider, Stack, Avatar } from '@chakra-ui/core'
 function Card({ artwork }) {
   return (
     <Flex direction="column" border="1px solid black" w="352px" key={artwork.id}>
-      <Image w="352px" h="352px" src={artwork.image} />
+      <Image alt={artwork.name} w="352px" h="352px" src={artwork.image} />
       <Text ml={5} mt={5} fontSize="lg" fontWeight="semibold" lineHeight="short">
         {artwork.name}
       </Text>
